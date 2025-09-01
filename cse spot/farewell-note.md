@@ -23,7 +23,9 @@ Today, we’re focused on building [**KarnaForge**](https://karnaforge.dev), an 
 
 **_"Forging open source with purpose"_**  
 
-We draw inspiration from the generosity of **Karna** from the *Mahabharata*.  
+We draw inspiration from the generosity of **Karna** from the *Mahabharata*. 
+
+For requesting data deletion, please follow steps in [Data Deletion](data-deletion.md) to delete your data.  
 
 ---
 
