@@ -10,5 +10,6 @@ To request data deletion use the latest version of app (version code 60 or above
 - Use the **Delete my data** button on the home screen to delete data.
 <p>
     <img src="./assets/images/signin-screen.png" alt="CSE Spot" height="500"/>
-    <img src="./assets/images/data-deletion-page.png" alt="CSE Spot" height="500"/>
+    <img src="./assets/images/home-screen.png" alt="CSE Spot" height="500"/>
+    <img src="./assets/images/complete-data-deletion-page.png" alt="CSE Spot" height="500"/>
 </p>
